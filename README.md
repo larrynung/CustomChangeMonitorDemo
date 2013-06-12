@@ -1,4 +1,4 @@
 CustomChangeMonitorDemo
 =======================
 
-Demo how to implement custom .NET 4.0 System.Runtime.Caching.ChangeMonitor 
+Demo how to custom .NET 4.0 System.Runtime.Caching.ChangeMonitor 
